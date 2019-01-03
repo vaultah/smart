@@ -1,6 +1,6 @@
 ## Smart
 
-I made this to cheat in the Russian clone of HQ Trivia called [Clever](https://vk.com/clever)
+I made this to cheat at the Russian clone of HQ Trivia called [Clever](https://vk.com/clever)
 ([Google Play](https://play.google.com/store/apps/details?id=com.vk.quiz)).
 
 It was possible to extract answers from the UI hierarchy (for example, with `uiautomator dump`),
@@ -30,3 +30,9 @@ low quality setting for the stream resulted in poor OCR results, while high qual
   [browser extension](https://github.com/vaultah/smart-extension) via a WebSocket connection
   - the extension loads and displays Yandex search results for the question AND three combinations
   of the question and one of the answers in four iframes
+
+You can see it in action below (I used a test animation instead of the emulator)
+
+![](https://i.imgur.com/hgdI0Ty.gif)
+
+I'm sure there's still room for improvement, but they no longer offer monetary prizes. Meh.
