@@ -1,0 +1,7 @@
+websockets
+janus
+Pillow
+tesserocr
+scikit-image
+numpy
+PyQt5
